@@ -11,6 +11,10 @@ El proyecto fue creado con [Angular CLI](https://github.com/angular/angular-cli)
 
 ![Alt text](Web-desing.png)
 
+## Estructura de carpetas
+
+![Alt text](mkdir.png)
+
 ## Funcionalidades
 
 - Se implemento una `Barra` en su primera version para agregar nuevas tareas en el ToDo-List.
