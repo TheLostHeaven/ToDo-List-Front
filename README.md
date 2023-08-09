@@ -10,6 +10,7 @@ El proyecto fue creado con [Angular CLI](https://github.com/angular/angular-cli)
 ## Version Oficial V1.0
 
 
+
 ## Funcionalidades
 
 - Se implemento una `Barra` en su primera version para agregar nuevas tareas en el ToDo-List.
@@ -31,7 +32,7 @@ $ git clone https://github.com/TheLostHeaven/ToDo-List-Front
 
 2 Navega en el directorio del proyecto 
 ```bash
-$ cd ToD-List-Front
+$ cd ToDo-List-Front
 ```
 
 3 Puedes cambiar el origen del proyecto con los siguientes comando
@@ -58,7 +59,7 @@ Aqui puedes ver la estructura del Back-End <a href="https://github.com/TheLostHe
 
 1 Inicia la app con 
 ```bash
-$ npm run dev
+$ ng s -o
 ```
 
 2 Puedes acceder a ella desde el puerto configurado:
