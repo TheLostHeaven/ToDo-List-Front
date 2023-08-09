@@ -9,7 +9,7 @@ El proyecto fue creado con [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Version Oficial V1.0
 
-
+![Alt text](Web-desing.png)
 
 ## Funcionalidades
 
