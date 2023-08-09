@@ -9,7 +9,6 @@ El proyecto fue creado con [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Version Oficial V1.0
 
-img
 
 ## Funcionalidades
 
@@ -49,6 +48,11 @@ $ git remote add origin <nueva_url_del_repositorio>
 ```bash
 $ npm i
 ```
+
+## Referencia
+
+Aqui puedes ver la estructura del Back-End <a href="https://github.com/TheLostHeaven/ToDo-List_API">aqui</a>
+
 
 ## Uso
 
